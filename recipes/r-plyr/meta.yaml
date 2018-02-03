@@ -42,7 +42,8 @@ test:
     - "\"%R%\" -e \"library('plyr')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/plyr
+/index.html
   license: MIT
   summary: A set of tools that solves a common set of problems
   license_family: MIT
