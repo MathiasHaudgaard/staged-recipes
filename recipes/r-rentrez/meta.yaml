@@ -42,7 +42,7 @@ test:
     - "\"%R%\" -e \"library('rentrez')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/rentrez/index.html
   license: MIT
   summary: Provides an R interface to the NCBI's EUtils API allowing users to search databases
     like GenBank and PubMed, process the results of those searches and pull data into
