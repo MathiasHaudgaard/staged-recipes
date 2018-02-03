@@ -36,7 +36,7 @@ test:
     - "\"%R%\" -e \"library('inlinedocs')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/inlinedocs/index.html
   license: GPL-2 | GPL-3
   summary: Generates Rd files from R source code with comments. The main features of the default
     syntax are that (1) docs are defined in comments near the relevant code, (2) function
