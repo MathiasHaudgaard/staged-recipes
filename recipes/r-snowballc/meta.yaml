@@ -40,7 +40,8 @@ test:
     - "\"%R%\" -e \"library('SnowballC')\""  # [win]
 
 about:
-  home: https
+  home: https://cran.r-project.org/web/packages/snowballc
+/index.html
   license: BSD_2_clause
   summary: An R interface to the C libstemmer library that implements Porter's word stemming
     algorithm for collapsing words to a common root to aid comparison of vocabulary.
