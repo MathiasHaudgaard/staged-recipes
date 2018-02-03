@@ -40,7 +40,7 @@ test:
     - "\"%R%\" -e \"library('lattice')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/lattice/index.html
   license: GPL (>= 2)
   summary: A powerful and elegant high-level data visualization system inspired by Trellis graphics,
     with an emphasis on multivariate data. Lattice is sufficient for typical graphics
