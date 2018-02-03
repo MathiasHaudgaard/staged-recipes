@@ -36,7 +36,7 @@ test:
     - "\"%R%\" -e \"library('GenABEL.data')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/genabel.data/index.html
   license: GPL (>= 2)
   summary: GenABEL.data package consists of a data set used by GenABEL functions
   license_family: GPL3
