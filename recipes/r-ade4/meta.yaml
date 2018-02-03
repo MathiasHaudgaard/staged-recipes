@@ -42,7 +42,8 @@ test:
     - "\"%R%\" -e \"library('ade4')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/ade4
+/index.html
   license: GPL (>= 2)
   summary: Tools for multivariate data analysis. Several methods are provided for the analysis
     (i.e., ordination) of one-table (e.g., principal component analysis, correspondence
