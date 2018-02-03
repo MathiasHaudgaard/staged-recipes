@@ -52,7 +52,8 @@ test:
     - "\"%R%\" -e \"library('FactoMineR')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/FactoMineR
+/index.html
   license: GPL (>= 2)
   summary: Exploratory data analysis methods to summarize, visualize and describe datasets. The
     main principal component methods are available, those with the largest potential
