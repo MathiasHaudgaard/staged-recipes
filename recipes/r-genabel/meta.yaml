@@ -44,7 +44,8 @@ test:
     - "\"%R%\" -e \"library('GenABEL')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/genabel
+/index.html
   license: GPL (>= 2)
   summary: a package for genome-wide association analysis between  quantitative or binary traits
     and single-nucleotide polymorphisms (SNPs).
