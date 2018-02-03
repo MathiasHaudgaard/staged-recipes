@@ -40,7 +40,8 @@ test:
     - "\"%R%\" -e \"library('data.table')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/data.table
+/index.html
   license: GPL-3
   summary: Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins, fast add/modify/delete
     of columns by group using no copies at all, list columns, a fast friendly file reader
