@@ -42,7 +42,8 @@ test:
     - "\"%R%\" -e \"library('sp')\""  # [win]
 
 about:
-  home: https
+  home: https://cran.r-project.org/web/packages/sp
+/index.html
   license: GPL (>= 2)
   summary: Classes and methods for spatial data; the classes document where the spatial location
     information resides, for 2D or 3D data. Utility functions are provided, e.g. for
