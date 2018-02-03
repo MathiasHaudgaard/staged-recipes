@@ -48,7 +48,7 @@ test:
     - "\"%R%\" -e \"library('igraph')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/igraph/index.html
   license: GPL (>= 2)
   summary: Routines for simple graphs and network analysis. It can handle large graphs very well
     and provides functions for generating random and regular graphs, graph visualization,
