@@ -40,7 +40,7 @@ test:
     - "\"%R%\" -e \"library('Rcpp')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/rcpp/index.html
   license: GPL (>= 2)
   summary: The 'Rcpp' package provides R functions as well as C++ classes which offer a seamless
     integration of R and C++. Many R data types and objects can be mapped back and forth
