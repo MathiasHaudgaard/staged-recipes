@@ -38,7 +38,7 @@ test:
     - "\"%R%\" -e \"library('ggsignif')\""  # [win]
 
 about:
-  home: https
+  home: https://cran.r-project.org/web/packages/ggsignif/index.html
   license: GPL-3
   summary: Enrich your 'ggplots' with group-wise comparisons. This package provides an easy way
     to indicate if two groups are significantly different. Commonly this is shown by
