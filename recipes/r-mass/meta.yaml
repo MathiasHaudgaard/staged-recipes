@@ -40,7 +40,8 @@ test:
     - "\"%R%\" -e \"library('MASS')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/mass
+/index.html
   license: GPL-2 | GPL-3
   summary: Functions and datasets to support Venables and Ripley, "Modern Applied Statistics
     with S" (4th edition, 2002).
