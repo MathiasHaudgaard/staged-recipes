@@ -42,7 +42,8 @@ test:
     - "\"%R%\" -e \"library('Matrix')\""  # [win]
 
 about:
-  home: http
+  home: https://cran.r-project.org/web/packages/Matrix
+/index.html
   license: GPL (>= 2)
   summary: A rich hierarchy of matrix classes, including triangular, symmetric, and diagonal
     matrices, both dense and sparse and with pattern, logical and numeric entries.   Numerous
